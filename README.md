@@ -1,6 +1,6 @@
 # Prasana Insights Blog Website
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695381371113/cce037c2-2267-406c-8baf-4aeb8a4b0f76.png" width="250">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695381371113/cce037c2-2267-406c-8baf-4aeb8a4b0f76.png" width="500">
 
 You can find more value insights from [Prasana's Blog](https://prasanainsights.com/) hosted by Tech Evangelist [Prasana Kumar Parthasarathy](https://www.linkedin.com/in/prasana/).
 
